@@ -42,6 +42,6 @@ Embora eu esteja nos estágios iniciais da minha jornada, estou determinado a ap
 - [Projeto 1](https://link_para_o_projeto1): Descrição do projeto 1.
 - [Projeto 2](https://link_para_o_projeto2): Descrição do projeto 2.
 
-## Entre em Contato
+## Um Pouco mais sobre Mim
 
 - LinkedIn: https://www.linkedin.com/in/eduardo-alves-ara%C3%BAjo-silva-7a20b61ba/
