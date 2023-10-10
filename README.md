@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente Sou estudante na Área de Análise e Desenvolvimento de Sistemas 
-- 🌱 Atualmente a Tecnologia que estou em Aprendizagem são Java, JavaScript e React 
+- 🌱 Atualmente as Tecnologias que estou em Aprendizagem são Java, JavaScript e React 
 - 📫 Contate-me no e-mail: duduavesgt27@gmail.com
 
  <p align="center">
