@@ -1,33 +1,4 @@
-<h1 align="center">Ola , Eu Sou o Eduardo <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
-
-
-
-
-- 🔭 Atualmente Sou estudante na Área de Análise e Desenvolvimento de Sistemas 
-- 🌱 Atualmente as Tecnologias que estou em Aprendizagem são Java, JavaScript e React 
-- 📫 Contate-me no e-mail: duduavesgt27@gmail.com
-
- <p align="center">
-<a href="https://github.com/edualvesgt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edualvesgt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edualvesgt&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Dudu-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dudu-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dudu-Node" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Dudu-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dudu-Script" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dudu-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  <img align="center" alt="Dudu-JAVA" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Dudu-Sql" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> 
-  <img align="center" alt="Dudu-VS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"> 
-  <img align="center" alt="Dudu-GIT" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Code&size=35&duration=6500&pause=1000&color=8F96F7&random=false&width=435&lines=Hello+World!!;Seja+bem+Vindo(a)+ao+meu+Perfil+)](https://git.io/typing-svg)
 
 ## Sobre Mim
 
@@ -36,6 +7,35 @@ Olá, eu sou o Eduardo, um entusiasta apaixonado pela tecnologia e estou dando o
 Minha paixão pela TI começou quando percebi o incrível impacto que a tecnologia tem em nossa vida cotidiana. Desde então, tenho trabalhado diligentemente para entender os fundamentos da programação, design de sistemas e soluções tecnológicas inovadoras. Estou animado com a perspectiva de criar aplicativos e sistemas que podem melhorar a eficiência, a segurança e a experiência do usuário.
 
 Embora eu esteja nos estágios iniciais da minha jornada, estou determinado a aprender continuamente e a me adaptar às rápidas mudanças no mundo da TI. Estou ansioso para colaborar com colegas, mentores e profissionais experientes, buscando conhecimento e experiência prática para me tornar um desenvolvedor de sistemas altamente competente.
+
+ <p align="center">
+<a href="https://github.com/edualvesgt">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edualvesgt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edualvesgt&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+<div style="display: inline_block"><br>
+ 
+  ## Habilidades
+ 
+  <img align="center" alt="Dudu-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dudu-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dudu-Node" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Dudu-React" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dudu-Script" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dudu-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="Dudu-JAVA" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Dudu-Sql" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> 
+
+  ## Ferramentas
+  
+  <img align="center" alt="Dudu-VS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"> 
+  <img align="center" alt="Dudu-GIT" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+
+
+</div>
+
+
 
 ## Projetos
 
