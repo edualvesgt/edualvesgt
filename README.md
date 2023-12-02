@@ -1,12 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Code&size=35&duration=6500&pause=1000&color=8F96F7&random=false&width=435&lines=Hello+World!!;Seja+bem+Vindo(a)+ao+meu+Perfil+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=&weight=600&size=30&pause=1000&random=false&width=600&lines=Hello+There!!;Sejam+Bem+-+Vindos(a)+ao+meu+Perfil!)](https://git.io/typing-svg)
 
 ## Sobre Mim
 
-Olá, eu sou o Eduardo, um entusiasta apaixonado pela tecnologia e estou dando os primeiros passos na minha emocionante jornada profissional na área de Tecnologia da Informação (TI). Atualmente, estou focado em ampliar meus conhecimentos e habilidades, enquanto curso o Técnico em Desenvolvimento de Sistemas.
-
-Minha paixão pela TI começou quando percebi o incrível impacto que a tecnologia tem em nossa vida cotidiana. Desde então, tenho trabalhado diligentemente para entender os fundamentos da programação, design de sistemas e soluções tecnológicas inovadoras. Estou animado com a perspectiva de criar aplicativos e sistemas que podem melhorar a eficiência, a segurança e a experiência do usuário.
-
-Embora eu esteja nos estágios iniciais da minha jornada, estou determinado a aprender continuamente e a me adaptar às rápidas mudanças no mundo da TI. Estou ansioso para colaborar com colegas, mentores e profissionais experientes, buscando conhecimento e experiência prática para me tornar um desenvolvedor de sistemas altamente competente.
+Olá! 👋 Sou um estudante apaixonado por desenvolvimento , com especialização em back-end utilizando C#. Além disso, estou expandindo meu conhecimento para Java. Além do back-end, tenho disposição para atuar na área de front-end, especialmente com ReactJS.
 
  <p align="center">
 <a href="https://github.com/edualvesgt">
@@ -37,10 +33,20 @@ Embora eu esteja nos estágios iniciais da minha jornada, estou determinado a ap
 
 
 
-## Projetos
-
-- [Projeto 1](https://link_para_o_projeto1): Descrição do projeto 1.
-- [Projeto 2](https://link_para_o_projeto2): Descrição do projeto 2.
+## Certificações
+ <a href="https://www.credly.com/earner/earned/badge/53512127-1b36-429c-8b3a-e96d38191f12">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
+ </a>
+  <a href="https://www.credly.com/earner/earned/badge/b04c5be7-f403-4b38-aa49-1b578a4d7073">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+ </a>
+   <a href="https://www.credly.com/earner/earned/badge/313f6dfc-75ae-4b0d-9dd3-279b2e27af81">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+ </a>
+  <a href="https://www.credly.com/earner/earned/badge/9ca34acf-b681-4b84-807a-bc9e00df5248">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
+ </a>
+</div>
 
 ## Um Pouco mais sobre Mim
 
