@@ -2,7 +2,24 @@
 
 ## Sobre Mim
 
-Olá! 👋 Sou um estudante apaixonado por desenvolvimento , com especialização em back-end utilizando C#. Além disso, estou expandindo meu conhecimento para Java. Além do back-end, tenho disposição para atuar na área de front-end, especialmente com ReactJS.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UMC (Universidade de Mogi das Cruzes) e do Técnico em Desenvolvimento de Sistemas pelo SENAI, com previsão de conclusão em dezembro deste ano. Embora esteja cursando Desenvolvimento Full Stack, meu foco principal é o back-end.
+
+Competências
+
+Linguagens e Frameworks: C#, ASP.NET Core, Entity Framework, Java com Spring Boot
+Bancos de Dados: SQL Server, MongoDB
+Desenvolvimento de APIs: Experiência na criação e integração de APIs
+Desenvolvimento de Software: Criação e manutenção de sistemas e aplicativos
+Experiência Profissional
+
+Estagiário Técnico na Controller BMS: Realizei manutenções em sistemas de segurança e automação predial, além de trabalhar com dados em SQL Server.
+Projetos Significativos
+
+EventPlus: Desenvolvi um simulador de eventos, permitindo a simulação e interação com diferentes tipos de eventos. Este projeto envolveu a criação de uma plataforma dinâmica e interativa.
+SecurePass: Participei do desenvolvimento de um sistema de reconhecimento facial em colaboração com a Volkswagen, como parte de um projeto integrador promovido pelo SENAI.
+LiveFest: Desenvolvi um aplicativo mobile com React Native para mostrar eventos próximos e detalhes sobre eles, aprimorando meus conhecimentos em React e desenvolvimento mobile.
+VitalHub: Trabalhei em um aplicativo mobile multiplataforma para gestão de clínicas, onde médicos, clínicas e pacientes utilizam o mesmo aplicativo para gerenciar consultas e interações.
+
 
  <p align="center">
 <a href="https://github.com/edualvesgt">
