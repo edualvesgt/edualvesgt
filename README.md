@@ -77,7 +77,7 @@ VitalHub: Trabalhei em um aplicativo mobile multiplataforma para gestão de clí
   </a>
 </div>
 
-<!--<img align="right" height="150" src="https://media1.tenor.com/m/Gb76y7UyVMwAAAAC/sigma.gif" />-->
+<!-- <img align="right" height="150" src="https://media1.tenor.com/m/Gb76y7UyVMwAAAAC/sigma.gif" /> -->
 
 ## Portfólio
 
@@ -100,4 +100,4 @@ Confira meus projetos e mais detalhes sobre meu trabalho no meu portfólio pesso
 
 <br clear="both">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
